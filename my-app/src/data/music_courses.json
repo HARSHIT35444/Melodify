@@ -2,7 +2,7 @@
     "courses": [
       {
         "id": 1,
-        "title": "Guitar Fundamentals",
+        "title": "studio 1",
         "slug": "guitar-fundamentals",
         "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
         "price": 99.99,
@@ -12,7 +12,7 @@
       },
       {
         "id": 2,
-        "title": "Piano for Beginners",
+        "title": "studio 2",
         "slug": "piano-for-beginners",
         "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
         "price": 109.99,
